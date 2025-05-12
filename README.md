@@ -1,7 +1,7 @@
-# GoodBudgetPart2
+GoodBudgetPart2
 This is a budget App that lets the user save and also have great features in the app
 GoodBudget
-GoodBudget   is a modern, user-friendly budgeting app built using Android Studio Hedgehog. It helps users manage their personal finances, track expenses, and stay on top of their monthly budgets with an intuitive and responsive design.
+GoodBudget is a modern, user-friendly budgeting app built using Android Studio Hedgehog. It helps users manage their personal finances, track expenses and stay on top of their monthly budgets with an intuitive and responsive design.
 
 Features
 •	Budgeting System – Allocate funds into customizable budget category.
