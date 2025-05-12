@@ -6,7 +6,7 @@ GoodBudget is a modern, user-friendly budgeting app built using Android Studio H
 Features
 •	Budgeting System – Allocate funds into customizable budget category.
 •	Spending Analytics – Visualize spending trends.
-•	Secure Login – Optional PIN and biometric authentication for user safety.
+•	Secure Login – Email and password for user safety.
 •	Local Data Storage – Offline support with local storage and backup options.
 •	Multi-Currency Support– Track expenses in different currencies.
 
